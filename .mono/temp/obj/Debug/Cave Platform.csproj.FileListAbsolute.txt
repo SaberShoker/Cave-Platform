@@ -1,0 +1,9 @@
+C:\Users\илья\Documents\Cave-Platform\.mono\temp\obj\Debug\Cave Platform.csproj.AssemblyReference.cache
+C:\Users\илья\Documents\Cave-Platform\.mono\temp\obj\Debug\Cave Platform.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\илья\Documents\Cave-Platform\.mono\temp\obj\Debug\Cave Platform.AssemblyInfoInputs.cache
+C:\Users\илья\Documents\Cave-Platform\.mono\temp\obj\Debug\Cave Platform.AssemblyInfo.cs
+C:\Users\илья\Documents\Cave-Platform\.mono\temp\obj\Debug\Cave Platform.csproj.CoreCompileInputs.cache
+C:\Users\илья\Documents\Cave-Platform\.mono\temp\bin\Debug\Cave Platform.dll
+C:\Users\илья\Documents\Cave-Platform\.mono\temp\bin\Debug\Cave Platform.pdb
+C:\Users\илья\Documents\Cave-Platform\.mono\temp\obj\Debug\Cave Platform.dll
+C:\Users\илья\Documents\Cave-Platform\.mono\temp\obj\Debug\Cave Platform.pdb

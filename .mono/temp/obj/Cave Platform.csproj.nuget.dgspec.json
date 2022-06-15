@@ -1,0 +1,47 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\илья\\Documents\\Cave-Platform\\Cave Platform.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\илья\\Documents\\Cave-Platform\\Cave Platform.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\илья\\Documents\\Cave-Platform\\Cave Platform.csproj",
+        "projectName": "Cave Platform",
+        "projectPath": "C:\\Users\\илья\\Documents\\Cave-Platform\\Cave Platform.csproj",
+        "packagesPath": "C:\\Users\\илья\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\илья\\Documents\\Cave-Platform\\.mono\\temp\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\илья\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net472"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net472": {
+            "targetAlias": "net472",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net472": {
+          "targetAlias": "net472",
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
